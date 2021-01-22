@@ -1,0 +1,3 @@
+#+TITLE: Readme
+
+This repository contains my solutions to [[https://adventofcode.com/2020][Adventure of Code 2020]] written in Common Lisp. I use SBCL as my interpreter. I suppose this would work with other implementations as well. I try not to use any libraries to implement the solutions. Also forgive the naming conventions. I am still pretty much a n00b in lisp.
